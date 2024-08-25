@@ -58,6 +58,8 @@
     .projects-list img {
         width: 350px;
         padding: 20px;
+        display: flex;
+        flex-direction: column;
     }
     .projects-text h2 {
         color: #004cad;
@@ -81,6 +83,8 @@
     }
     .project {
         padding: 20px;
+        display: flex;
+        flex-direction: column;
     }
     
     .project h3 {
