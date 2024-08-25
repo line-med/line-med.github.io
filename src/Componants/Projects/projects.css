@@ -49,7 +49,7 @@
     font-size: 16px;
     padding-bottom: 20px;
 }
-@media (max-width: 600px) {
+@media (max-width: 450px) {
     .projects-list {
         align-items: center;
         font-size: 20px;
