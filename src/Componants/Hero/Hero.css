@@ -36,3 +36,9 @@
     padding-left: 40px;
     padding-right: 40px;
 }
+@media (max-width: 600px) {
+    .hero-text h1 {
+    font-size: 40px;
+    font-weight: 600;
+    }
+  }
