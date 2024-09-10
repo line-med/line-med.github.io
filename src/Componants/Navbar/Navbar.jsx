@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className='container'>
       <img src={Logo} alt=''></img>
       <div className='btn'>
-      <a className='btn' href="mailto:linemed2024@gmail.com">contact</a>
+      <a className='btn' href="mailto:hkpromed.dz@gmail.com">contact</a>
       </div>
     </nav>
     

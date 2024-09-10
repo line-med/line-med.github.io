@@ -8,7 +8,7 @@ const Hero = () => {
         <div className='hero-text'>
             <h1>Maintenance des appareils medicale</h1>
             <p>installation, reparation et maintenance des apareis medicales</p>
-            <a className='btn' href="mailto:linemed2024@gmail.com">contact</a>
+            <a className='btn' href="mailto:hkpromed.dz@gmail.com">contact</a>
         </div>
         
         
